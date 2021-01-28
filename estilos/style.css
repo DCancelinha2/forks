@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+    transition: color 1s linear;
+}
+
+h1:hover {
+    color: blue;
+}
